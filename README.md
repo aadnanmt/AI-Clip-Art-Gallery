@@ -9,9 +9,9 @@
 
 | | | |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:-------------------------------------------------------------:|
-| <img src="img/" width="200"> | <img src="/img" width="200"> | <img src="img/" width="200"> |
-| <img src="img/" width="200"> | <img src="img/" width="200"> | <img src="img/" width="200"> |
-| <img src="img/" width="200"> | <img src="img/" width="200"> | <img src="img/" width="200"> |
+| <img src="img/clip1.png" width="200"> | <img src="img/clip4.png" width="200"> | <img src="img/clip7.png" width="200"> |
+| <img src="img/clip2.png" width="200"> | <img src="img/clip5.png" width="200"> | <img src="img/clip8.png" width="200"> |
+| <img src="img/clip3.png" width="200"> | <img src="img/clip6.png" width="200"> | <img src="img/clip9.png" width="200"> |
 
 ---
 
